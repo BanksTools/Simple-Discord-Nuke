@@ -9,3 +9,6 @@
 7. Paste this link https://github.com/BanksTools/Simple-Discord-Nuke
 8. Click on Import from github
 9. And You are Done Paste you Token Channel and Spam message and press Run
+
+
+THIS IS NOT MY CODE I FOUND IT ON YT 
